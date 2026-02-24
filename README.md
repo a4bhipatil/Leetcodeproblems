@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

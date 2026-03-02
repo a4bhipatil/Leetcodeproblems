@@ -25,8 +25,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0763-partition-labels](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0442-find-all-duplicates-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0763-partition-labels) |
+## String
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0763-partition-labels) |
+## Greedy
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->

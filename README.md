@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->

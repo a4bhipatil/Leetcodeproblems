@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0015-3sum) |
 | [0119-pascals-triangle-ii](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0268-missing-number) |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0015-3sum) |
 | [0763-partition-labels](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0763-partition-labels) |
 ## String
 |  |

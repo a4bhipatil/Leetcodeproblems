@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0930-binary-subarrays-with-sum) |
 | [1732-find-the-highest-altitude](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0763-partition-labels](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0763-partition-labels) |
+| [0930-binary-subarrays-with-sum](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -70,9 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0930-binary-subarrays-with-sum) |
 | [1732-find-the-highest-altitude](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 ## Linked List
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0092-reverse-linked-list-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->

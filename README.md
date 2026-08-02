@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |

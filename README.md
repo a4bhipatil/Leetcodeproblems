@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0027-remove-element) |
 | [0119-pascals-triangle-ii](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/a4bhipatil/Leetcodeproblems/tree/master/0442-find-all-duplicates-in-an-array) |
